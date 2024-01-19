@@ -3,7 +3,7 @@
 </div>
 
 
-# 💫 About Me:
+# 👋🏼 About Me:
 🔭 I’m currently working on **DreamDiver App**<br><br>- 🌱 I’m currently learning **React Native**<br><br>- 👯 I’m looking to collaborate on **Interesting projects about Web 3.0, React Native Apps, Dall-E and some AI  technologies related**<br><br>- 📫 How to reach me **m.galmanus@gmail.com**
 
 
