@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20201125145805/Firebase-2-1.png width="200"/>
+  <img src="https://media.giphy.com/media/EauwThrXwq0EWngOcT/giphy.gif" width="400"/>
 </div>
 
 
