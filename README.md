@@ -1,11 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ARfJtEhX4RBzinTjIA/giphy.gif" width="200"/>
 </div>
-
 <h1 align="center">Hi 👋, I'm Manuel Guilherme</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=galmanus&label=Profile%20views&color=0e75b6&style=flat" alt="galmanus" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=galmanus" alt="galmanus" /></a> </p>
 
 - 🔭 I’m currently working on **DreamDiver App**
 
