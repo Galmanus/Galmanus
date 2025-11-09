@@ -1,8 +1,7 @@
 - **Name**: 0xglms.eth
 - **From**: Brazil
-- **Bug Hunter** | **Security Researcher** | 
-- I have experience in **Full Stack Development**, **Web3 Security** and **Smart Contract Auditing**
-- Improving knowledge in **Webapp Vulnerabilities** and **Smart Contract Auditing**
+- **Web2/Web3 Developer** | **Security Researcher** 
+- I have experience in **Full Stack Development**, **Web2/Web3 Security** and **Smart Contract Auditing**
 - Lifelong learner — always exploring **everything**
 - Reach me out at **https://www.linkedin.com/in/galmanus/**
 
