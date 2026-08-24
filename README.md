@@ -19,7 +19,7 @@
 - **Post-quantum cryptography, on-chain** — built and verified a **transparent, post-quantum STARK proof on Stellar mainnet** (verifiable by contract ID, ~$0.01 / verification).
 - **Soroban smart-contract security** — checked-arithmetic hardening, storage-TTL / funds-safety, contract invariants, and adversarial review of production contracts.
 - **Offensive security (web2 + web3)** — black-box pentesting, adversarial hunting, and honeypot / deception tooling.
-- **Active open-source contributor** across the Stellar ecosystem.
+- **Contributor to the official Stellar repositories** — merged pull requests in the Stellar org's Rust stack (`rs-soroban-env`, `rs-stellar-xdr`), plus ongoing work across `stellar-cli` and the wider ecosystem.
 
 > **On my footprint:** a large part of my strongest work — audits, security research, and client contracts — lives in **private repositories**. I'm happy to grant access for review on request.
 
