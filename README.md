@@ -1,13 +1,29 @@
-- **Name**: 0xglms.eth
-- **From**: Brazil
-- **Web2/Web3 Developer** | **Security Researcher** 
-- I have experience in **Full Stack Development**, **Web2/Web3 Security** and **Smart Contract Auditing**
-- Lifelong learner — always exploring **everything**
-- Reach me out at **https://www.linkedin.com/in/galmanus/**
+<h1 align="center">Manuel Guilherme · Galmanus</h1>
+<p align="center"><b>Smart-contract security · Soroban / Stellar · AI security</b></p>
 
-</details>
 <br>
 
+### whoami
+
+- **Name**: 0xglms.eth
+- **From**: Brazil
+- **Web2/Web3 Developer** and **Security Researcher** — full-stack, offensive security, and **smart-contract auditing**.
+- I build and break: **Soroban / Rust** contracts, **EVM / Solidity**, and the infrastructure around them.
+- Lifelong learner — always exploring **everything**.
+- Reach me at **https://www.linkedin.com/in/galmanus/**
+
+<br>
+
+### Focus & selected work
+
+- **Post-quantum cryptography, on-chain** — built and verified a **transparent, post-quantum STARK proof on Stellar mainnet** (verifiable by contract ID, ~$0.01 / verification).
+- **Soroban smart-contract security** — checked-arithmetic hardening, storage-TTL / funds-safety, contract invariants, and adversarial review of production contracts.
+- **Offensive security (web2 + web3)** — black-box pentesting, adversarial hunting, and honeypot / deception tooling.
+- **Active open-source contributor** across the Stellar ecosystem.
+
+> **On my footprint:** a large part of my strongest work — audits, security research, and client contracts — lives in **private repositories**. I'm happy to grant access for review on request.
+
+<br>
 
 <h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
 
@@ -15,6 +31,9 @@
 
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+      <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&color=000000" alt="Rust" />
+      <img src="https://img.shields.io/badge/Soroban-000000?style=for-the-badge&logo=stellar&color=000000" alt="Soroban" />
+      <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&color=000000" alt="Solidity" />
       <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
       <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000" alt="Metasploit" />
       <img src="https://img.shields.io/badge/Wireshark-009639?style=for-the-badge&logo=wireshark&color=000000" alt="Wireshark" />
@@ -32,6 +51,7 @@
       <img src="https://img.shields.io/badge/HTML5-5D4B6C?style=for-the-badge&logo=html5&color=000000" alt="HTML5" />
       <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&color=000000" alt="CSS3" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=000000" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&color=000000" alt="TypeScript" />
       <img src="https://img.shields.io/badge/BlackArch-0A0A0A?style=for-the-badge&logo=blackarch&color=000000" alt="BlackArch" />
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&color=000000" alt="MongoDB" />
       <img src="https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express&color=000000" alt="ExpressJS" />
@@ -46,23 +66,4 @@
 
 ---
 
-
-
-
-
-</p>
-<p align="center">
-  <img src="https://github.com/caerlower/caerlower/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
+<p align="center"><sub>Open to smart-contract audits and security engagements · private repositories available for review on request.</sub></p>
