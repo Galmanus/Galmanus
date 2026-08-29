@@ -5,7 +5,7 @@
 
 ### whoami
 
-- **Name**: 0xglms.eth
+- **Name**: 0xglms.xlm
 - **From**: Brazil
 - **Web2/Web3 Developer** and **Security Researcher** — full-stack, offensive security, and **smart-contract auditing**.
 - I build and break: **Soroban / Rust** contracts, **EVM / Solidity**, and the infrastructure around them.
